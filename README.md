@@ -13,5 +13,5 @@
 <br><br>💻 Now, I’m channeling that same passion into front-end development,
 where I can turn information into intuitive, user-friendly web experiences.
 <br><br>💡 Every day, I’m working hard to improve my skills and consistently recording what I’ve learned — because I believe growth comes from steady effort.
-<br><br>🔧 My current focus is on mastering <span style="font-weight: bold;">🌐 HTML</span>, <span style="font-weight:bold;">🎨 CSS</span>, <span style="font-weight:bold;">💛 JavaScript</span> 
+<br><br>🔧 My current focus is on mastering <span style="font-weight: bold;">🌐 HTML</span>, <span style="font-weight:bold;">🎨 CSS</span>, <span style="font-weight:bold;">💛 JavaScript</span>, <span style="font-weight:bold;">⚛️ React</span> 
 <br><br>Thanks for stopping by! 🌱✨ </div>
